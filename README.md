@@ -25,6 +25,7 @@ Son  1 tane kalana kadar
 > Time Complexity: Average case: Aradığımız sayının ortada olması,  
 > Worst case: Aradığımız sayının sonda olması,   
 > Best case: Aradığımız sayının dizinin en başında olması.  
+>   
 3-) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.  
   
 Worst Case  
